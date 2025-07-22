@@ -1,6 +1,6 @@
 <h1 align="center">Hi, i am John Moreno 🕵️</h1>
 
-<p>I am a cybersecurity enthusiast, especially focused on the red team, dfir, pwn part.</p>
+<p>I am a cybersecurity enthusiast, especially focused on the red team, dfir, pwn.</p>
 
 
 <h2 align="center">
