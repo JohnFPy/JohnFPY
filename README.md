@@ -1,6 +1,11 @@
 <h1 align="center">Hi, i am John Moreno 🕵️</h1>
 
+<p>I am a cybersecurity enthusiast, especially focused on the red team, dfir, pwn part.</p>
 
+
+<h2 align="center">
+  Skills
+</h2>
 ### Technologies
 
 [![HTML][HTML]](#)
