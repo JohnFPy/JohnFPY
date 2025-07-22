@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, i am John Moreno 🕵️</h1>
 
-<!--
-**JohnFPy/JohnFPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![HTML][HTML]](#)
+[![CSS][CSS]](#)
+[![Javascript][Javascript]](#)
+[![Python][Python]](#)
+[![C#][CSharp]](#)
+
+[HTML]: https://img.shields.io/badge/HTML%205-E34F26?style=for-the-badge&labelColor=FFF&logo=HTML5
+[CSS]: https://img.shields.io/badge/CSS%203-039BE5?style=for-the-badge&labelColor=FFF&logo=CSS3&logoColor=039BE5
+[Javascript]: https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=213345&logo=javascript
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFF&logo=python&logoColor=3776AB
+[CSharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=FFF&logo=c-sharp&logoColor=239120
